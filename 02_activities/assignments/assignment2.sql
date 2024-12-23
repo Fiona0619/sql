@@ -1,4 +1,4 @@
-/* ASSIGNMENT 2 */
+/* ASSIGNMENT 2 Fiona He*/
 /* SECTION 2 */
 
 -- COALESCE
